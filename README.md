@@ -1,4 +1,4 @@
-# ALDA-Project# Neural-Network-Library
+# Neural-Network-Library
 This is an MLP library (As of now), that has the following features:
 a) 3 different optimization algorithms: Adam, Stochastic Gradient Descent, RMSProp 
 b) Dropout, L2 regularization, L1 Regularization
